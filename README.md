@@ -1,2 +1,2 @@
-# qgis2web_2022_08_25-08_38_10_096617
+# tataruang-puprngawi
  Informasi Tata Ruang Kab. Ngawi
